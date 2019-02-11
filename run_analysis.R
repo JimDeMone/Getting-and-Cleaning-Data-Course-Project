@@ -1,9 +1,9 @@
 ################################################################
 ## Download the data
 ################################################################
-#if(!file.exists("./data")){dir.create("./data")}
-#download.file(fileUrl,destfile="./data/data.zip")
-#unzip("./data/data.zip", exdir="./data")
+if(!file.exists("./data")){dir.create("./data")}
+download.file(fileUrl,destfile="./data/data.zip")
+unzip("./data/data.zip", exdir="./data")
 ################################################################
 ## Read in the meta data
 ################################################################
