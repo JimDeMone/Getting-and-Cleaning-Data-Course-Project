@@ -1,0 +1,91 @@
+The final data set contains the following variables.  All values starting with "mean" are the average of each variable for each activity and each subject.
+
+ [1] subjectid - unique identifier of the participant                                         
+ [2] datatype - is this subject a member of the training or test group                                          
+ [3] activitytype - type of physical activity performed (walking, walkingupstairs, walkingdownstairs, sitting, standing, laying)
+ [4] meantimebodyaccelerometermeanx                              
+ [5] meantimebodyaccelerometermeany                              
+ [6] meantimebodyaccelerometermeanz                              
+ [7] meantimebodyaccelerometerstandarddeviationx                 
+ [8] meantimebodyaccelerometerstandarddeviationy                 
+ [9] meantimebodyaccelerometerstandarddeviationz                 
+[10] meantimegravityaccelerometermeanx                           
+[11] meantimegravityaccelerometermeany                           
+[12] meantimegravityaccelerometermeanz                           
+[13] meantimegravityaccelerometerstandarddeviationx              
+[14] meantimegravityaccelerometerstandarddeviationy              
+[15] meantimegravityaccelerometerstandarddeviationz              
+[16] meantimebodyaccelerometerjerkmeanx                          
+[17] meantimebodyaccelerometerjerkmeany                          
+[18] meantimebodyaccelerometerjerkmeanz                          
+[19] meantimebodyaccelerometerjerkstandarddeviationx             
+[20] meantimebodyaccelerometerjerkstandarddeviationy             
+[21] meantimebodyaccelerometerjerkstandarddeviationz             
+[22] meantimebodygyroscopemeanx                                  
+[23] meantimebodygyroscopemeany                                  
+[24] meantimebodygyroscopemeanz                                  
+[25] meantimebodygyroscopestandarddeviationx                     
+[26] meantimebodygyroscopestandarddeviationy                     
+[27] meantimebodygyroscopestandarddeviationz                     
+[28] meantimebodygyroscopejerkmeanx                              
+[29] meantimebodygyroscopejerkmeany                              
+[30] meantimebodygyroscopejerkmeanz                              
+[31] meantimebodygyroscopejerkstandarddeviationx                 
+[32] meantimebodygyroscopejerkstandarddeviationy                 
+[33] meantimebodygyroscopejerkstandarddeviationz                 
+[34] meantimebodyaccelerometermagnitudemean                      
+[35] meantimebodyaccelerometermagnitudestandarddeviation         
+[36] meantimegravityaccelerometermagnitudemean                   
+[37] meantimegravityaccelerometermagnitudestandarddeviation      
+[38] meantimebodyaccelerometerjerkmagnitudemean                  
+[39] meantimebodyaccelerometerjerkmagnitudestandarddeviation     
+[40] meantimebodygyroscopemagnitudemean                          
+[41] meantimebodygyroscopemagnitudestandarddeviation             
+[42] meantimebodygyroscopejerkmagnitudemean                      
+[43] meantimebodygyroscopejerkmagnitudestandarddeviation         
+[44] meanfrequencybodyaccelerometermeanx                         
+[45] meanfrequencybodyaccelerometermeany                         
+[46] meanfrequencybodyaccelerometermeanz                         
+[47] meanfrequencybodyaccelerometerstandarddeviationx            
+[48] meanfrequencybodyaccelerometerstandarddeviationy            
+[49] meanfrequencybodyaccelerometerstandarddeviationz            
+[50] meanfrequencybodyaccelerometermeanfreqx                     
+[51] meanfrequencybodyaccelerometermeanfreqy                     
+[52] meanfrequencybodyaccelerometermeanfreqz                     
+[53] meanfrequencybodyaccelerometerjerkmeanx                     
+[54] meanfrequencybodyaccelerometerjerkmeany                     
+[55] meanfrequencybodyaccelerometerjerkmeanz                     
+[56] meanfrequencybodyaccelerometerjerkstandarddeviationx        
+[57] meanfrequencybodyaccelerometerjerkstandarddeviationy        
+[58] meanfrequencybodyaccelerometerjerkstandarddeviationz        
+[59] meanfrequencybodyaccelerometerjerkmeanfreqx                 
+[60] meanfrequencybodyaccelerometerjerkmeanfreqy                 
+[61] meanfrequencybodyaccelerometerjerkmeanfreqz                 
+[62] meanfrequencybodygyroscopemeanx                             
+[63] meanfrequencybodygyroscopemeany                             
+[64] meanfrequencybodygyroscopemeanz                             
+[65] meanfrequencybodygyroscopestandarddeviationx                
+[66] meanfrequencybodygyroscopestandarddeviationy                
+[67] meanfrequencybodygyroscopestandarddeviationz                
+[68] meanfrequencybodygyroscopemeanfreqx                         
+[69] meanfrequencybodygyroscopemeanfreqy                         
+[70] meanfrequencybodygyroscopemeanfreqz                         
+[71] meanfrequencybodyaccelerometermagnitudemean                 
+[72] meanfrequencybodyaccelerometermagnitudestandarddeviation    
+[73] meanfrequencybodyaccelerometermagnitudemeanfreq             
+[74] meanfrequencybodyaccelerometerjerkmagnitudemean             
+[75] meanfrequencybodyaccelerometerjerkmagnitudestandarddeviation
+[76] meanfrequencybodyaccelerometerjerkmagnitudemeanfreq         
+[77] meanfrequencybodygyroscopemagnitudemean                     
+[78] meanfrequencybodygyroscopemagnitudestandarddeviation        
+[79] meanfrequencybodygyroscopemagnitudemeanfreq                 
+[80] meanfrequencybodygyroscopejerkmagnitudemean                 
+[81] meanfrequencybodygyroscopejerkmagnitudestandarddeviation    
+[82] meanfrequencybodygyroscopejerkmagnitudemeanfreq             
+[83] meanangletbodyaccelerometermeangravity                      
+[84] meanangletbodyaccelerometerjerkmeangravitymean              
+[85] meanangletbodygyroscopemeangravitymean                      
+[86] meanangletbodygyroscopejerkmeangravitymean                  
+[87] meananglexgravitymean                                       
+[88] meanangleygravitymean                                       
+[89] meananglezgravitymean                                                              
