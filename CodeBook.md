@@ -2,7 +2,7 @@ The final data set contains the following variables.  All values starting with "
 
  [1] subjectid - unique identifier of the participant                                         
  [2] datatype - is this subject a member of the training or test group                                          
- [3] activitytype - type of physical activity performed (walking, walkingupstairs, walkingdownstairs, sitting, standing, laying)
+ [3] activitytype - type of physical activity performed (walking, walkingupstairs, walkingdownstairs, sitting, standing, laying)                               
  [4] meantimebodyaccelerometermeanx                              
  [5] meantimebodyaccelerometermeany                              
  [6] meantimebodyaccelerometermeanz                              
@@ -88,4 +88,4 @@ The final data set contains the following variables.  All values starting with "
 [86] meanangletbodygyroscopejerkmeangravitymean                  
 [87] meananglexgravitymean                                       
 [88] meanangleygravitymean                                       
-[89] meananglezgravitymean  
+[89] meananglezgravitymean                                       
