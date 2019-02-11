@@ -88,4 +88,4 @@ The final data set contains the following variables.  All values starting with "
 [86] meanangletbodygyroscopejerkmeangravitymean                  
 [87] meananglexgravitymean                                       
 [88] meanangleygravitymean                                       
-[89] meananglezgravitymean                                                              
+[89] meananglezgravitymean  
